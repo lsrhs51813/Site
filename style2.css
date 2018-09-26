@@ -1,0 +1,12 @@
+p{
+  font-size:22px;
+}
+.small{
+font-size:12px;
+}
+.big{
+font-size: 18
+}
+a:hover{
+color:red;
+}
